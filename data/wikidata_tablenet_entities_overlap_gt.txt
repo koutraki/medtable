@@ -1,0 +1,352 @@
+entity,section, table/text or table or text
+erythropoietic porphyria,--
+influenza,--
+cryptosporidiosis,--
+congenital adrenal hyperplasia,Classification,table
+porphyria cutanea tarda,Classification,table
+centronuclear myopathy,Genetic causes,table
+typhus,Causes,table
+renal cell carcinoma,Classification,table
+aphthous stomatitis,--
+trachoma,--
+congenital hypothyroidism,Genetic,table
+primary hyperparathyroidism,Causes,table
+lissencephaly,Classification,table
+hypothermia,Classification,table
+tracheoesophageal fistula,Classification,table
+pseudohypoaldosteronism,Types,table
+diabetes mellitus,Causes,table
+trichinosis,--
+histiocytosis,Classification,table
+viral hepatitis,Hepatitis viruses,table
+viral hepatitis,Hepatitis A,table
+viral hepatitis,Hepatitis B,table
+muscular dystrophy,Classification,table
+methylmalonic acidemia,Types,table
+congenital disorder of glycosylation,Classification,table
+portal hypertension,--
+tempi syndrome,--
+noonan syndrome,Causes,table
+fructose malabsorption,--
+fg syndrome,Genetics,table
+african iron overload,--
+childhood obesity,--
+soft-tissue sarcoma,Types,table
+soft-tissue sarcoma,Types,table
+post-concussion syndrome,--
+lateral medullary syndrome,--
+landau–kleffner syndrome,--
+congenital adrenal hyperplasia due to 21-hydroxylase deficiency,Classification,table
+appendicitis,--
+ocular albinism,Types,table
+rhabdomyosarcoma,--
+narcissistic personality disorder,Subtypes,table
+iron overload,Primary haemochromatosis,table
+myiasis,Signs and symptoms,table
+polydactyly,Causes,table
+marburg virus disease,--
+lipedema,Diagnosis,table
+eating disorder,--
+adult-onset still's disease,--
+retinitis pigmentosa,Genetics,table
+hypotrichosis,Genetics,table
+respiratory failure,Diagnosis,table
+autotopagnosia,--
+hereditary spastic paraplegia,Genotypes,table
+hypertensive heart disease,--
+aphasia,Boston classification,table
+familial partial lipodystrophy,Types,table
+specific developmental disorder,Comparison and conditions,table
+epidermolysis bullosa dystrophica,Classification,table
+long qt syndrome,Genetics,table
+anemia,--
+cerebral arteriovenous malformation,--
+peripartum cardiomyopathy,--
+22q13 deletion syndrome,--
+hospital-acquired infection,--
+mitral valve stenosis,--
+down syndrome,--
+aberrations of the eye,--
+chronic obstructive pulmonary disease,--
+familial hemiplegic migraine,--
+familial hemiplegic migraine,--
+echinococcosis,--
+pituitary adenoma,Classification,table
+genital herpes,--
+cornelia de lange syndrome,Causes,table
+cystic fibrosis,--
+tetraplegia,Classification,table
+hepatic encephalopathy,Types,table
+hypothyroidism,Causes,table
+obesity,Classification,table
+pericoronitis,--
+thrombosis,--
+hypovolemia,Stages,table
+meckel's diverticulum,--
+bacterial vaginosis,--
+juvenile myelomonocytic leukemia,--
+robinow syndrome,--
+craniosynostosis,Classification,table
+brachydactyly,Types,table
+proteopathy,List of proteopathies,table
+ovarian cancer,Pathophysiology,table
+fistula,Types,table
+amyotrophic lateral sclerosis,--
+glycine encephalopathy,Genetics,table
+severe combined immunodeficiency,Classification,table
+childhood absence epilepsy,Pathophysiology,table
+paramyotonia congenita,Pathophysiology,table
+kallmann syndrome,--
+gestational diabetes,--
+synpolydactyly,Types,table
+joubert syndrome,Genetics,table
+gulf war syndrome,--
+poliomyelitis,--
+prostatitis,Classification,table
+heparin-induced thrombocytopenia,--
+vascular myelopathy,Spinal cord infarction,table
+lichen planus,Classification,table
+malaria,Classification,table
+primary polydipsia,--
+reticular dysgenesis,--
+hip dysplasia,--
+irritable bowel syndrome,--
+generalized epilepsy with febrile seizures plus,--
+hepatitis,--
+asthma,--
+babesiosis,--
+keratin disease,Pathology,table
+invasive lobular carcinoma,Invasive lobular carcinoma,table
+oculocutaneous albinism,Types,table
+placenta praevia,Classification,table
+primary hyperoxaluria,Classification,table
+motor neuron disease,Classification,table
+esthesioneuroblastoma,Staging,table
+tetralogy of fallot,Pathophysiology,table
+scapular fracture,Classification,table
+bruxism,--
+vaginitis,--
+corneal dystrophy,Genetics,table
+multiple system atrophy,Classification,table
+pneumothorax,Cause,table
+multiple epiphyseal dysplasia,Inheritance,table
+pulpitis,--
+channelopathy,Types,table
+ichthyosis,Types,table
+hereditary hemorrhagic telangiectasia,Genetics,table
+bing–neel syndrome,--
+abdominal aortic aneurysm,Classification,table
+leukemia,Classification,table
+non-small-cell lung carcinoma,--
+exanthem,Infectious exanthem,table
+oral candidiasis,--
+schizotypal personality disorder,Subtypes,table
+progeria,--
+osteochondritis dissecans,Classification,table
+endometrial cancer,Staging,table
+type iii hypersensitivity,--
+fecal incontinence,--
+familial atrial fibrillation,Cause,table
+hereditary elliptocytosis,Common hereditary elliptocytosis,table
+type iv hypersensitivity,Examples,table
+spastic quadriplegia,Scientific classification,table
+acute kidney injury,Classification,table
+papillary thyroid cancer,--
+osteogenesis imperfecta,Genetics,table
+seckel syndrome,Genetics,table
+atopic dermatitis,--
+inguinal hernia,Diagnosis,table
+glaucoma,--
+epidermolysis bullosa,Other genetic,table
+brugada syndrome,Genetics,table
+schizoid personality disorder,Millon's subtypes,table
+3-methylglutaconic aciduria,Classification,table
+dural arteriovenous fistula,Classification,table
+generalized pustular psoriasis,--
+osteomyelitis,--
+cryoglobulinemia,Classification,table
+microphthalmia,--
+traveler's diarrhea,--
+hypervitaminosis a,--
+hereditary sensory and autonomic neuropathy type i,Subtypes,table
+common variable immunodeficiency,Types,table
+optic neuritis,--
+transmissible spongiform encephalopathy,Classification,table
+tetanus,--
+cancer,Genetic testing,table
+ciliopathy,Ciliopathies,table
+lactose intolerance,--
+familial hypercholesterolemia,--
+cannabinoid hyperemesis syndrome,--
+femoral hernia,Classification,table
+pericarditis,--
+lateral pontine syndrome,--
+mercury poisoning,--
+cockayne syndrome,Genetics,table
+croup,Diagnosis,table
+keratoconus,Stages,table
+substance dependence,--
+dental fluorosis,Classification,table
+hirschsprung's disease,Cause,table
+relapsing polychondritis,--
+chronic kidney disease,Diagnosis,table
+olivopontocerebellar atrophy,Cause,table
+kniest dysplasia,--
+osteoporosis,--
+galactosemia,Types,table
+splenic marginal zone lymphoma,Synonyms,table
+heart failure,--
+leukoplakia,--
+placental insufficiency,--
+esophageal atresia,Classification,table
+familial hypocalciuric hypercalcemia,Causes,table
+ovarian cyst,--
+dilated cardiomyopathy,--
+avian influenza,Genetics,table
+chancroid,Diagnosis,table
+dependent personality disorder,Epidemiology,table
+alzheimer's disease,--
+uremia,--
+nonsyndromic deafness,Genetics,table
+igg4-related disease,--
+severe acute respiratory syndrome,--
+meningitis,Diagnosis,table
+ocular albinism type 1,--
+vasculitis,Classification,table
+asphyxiating thoracic dysplasia,Types,table
+pseudohypoparathyroidism,Types,table
+histrionic personality disorder,Diagnosis,table
+hyperparathyroidism,--
+tubo-ovarian abscess,--
+radiation burn,--
+polycythemia vera,--
+porphyria,Genetics,table
+galactose epimerase deficiency,Genetic basis,table
+agnosia,Types,table
+kawasaki disease,--
+monomac,--
+congenital generalized lipodystrophy,Genetics,table
+apert syndrome,Syndactyly,table
+hereditary diffuse leukoencephalopathy with spheroids,--
+type i hypersensitivity,--
+focal segmental glomerulosclerosis,--
+catecholaminergic polymorphic ventricular tachycardia,Molecular genetics,table
+reactive arthritis,--
+phenylketonuria,--
+hyperinsulinemic hypoglycemia,Genetics,table
+thyroid cancer,Prognosis,table
+personality disorder,Millon's description,table
+personality disorder,Epidemiology,table
+personality disorder,Comorbidity,table
+blastocystosis,--
+measles,--
+genitopatellar syndrome,--
+xeroderma pigmentosum,Types,table
+color blindness,Types,table
+hyperlipidemia,Classification,table
+osteopetrosis,Gene Variation,table
+splenomegaly,--
+congenital dyserythropoietic anemia type i,Genetics,table
+leprosy,Genetics,table
+nerve compression syndrome,Syndromes,table
+nerve compression syndrome,Syndromes,table
+herpes simplex,Pathophysiology,table
+mandibuloacral dysplasia,Types,table
+bartonellosis,Microbiology,table
+skin cancer,Classification,table
+griscelli syndrome,Types,table
+congenital dyserythropoietic anemia,Genetics,table
+hepatitis a,--
+chronic mucocutaneous candidiasis,Types,table
+inferiority complex,--
+bipolar i disorder,DSM-IV-TR General diagnosis codes,table
+ectrodactyly,Classification,table
+astrocytoma,Grading,table
+self-defeating personality disorder,Millon's subtypes,table
+retroverted uterus,--
+paget's disease of bone,Genetic,table
+cluster headache,--
+sanfilippo syndrome,Pathophysiology,table
+hypertension,--
+spondylocostal dysostosis,Genetics,table
+ectopic pregnancy,--
+spastic cerebral palsy,Types,table
+premature ovarian failure,Causes,table
+dracunculiasis,--
+nephrogenic diabetes insipidus,Hereditary,table
+toothache,--
+hidradenitis suppurativa,--
+hypokalemic periodic paralysis,Genetics,table
+myxoma,Types,table
+multiple endocrine neoplasia,Comparison,table
+migraine,--
+acute pancreatitis,--
+acute myeloid leukemia,--
+meckel syndrome,Pathophysiology,table
+central sleep apnea,--
+substance abuse,--
+sinusitis,--
+idiopathic interstitial pneumonia,--
+beta thalassemia,Mutations,table
+myelodysplastic syndrome,French-American-British (FAB) classification,table
+pulmonary fibrosis,--
+subarachnoid hemorrhage,Classification,table
+opportunistic infection,--
+xy gonadal dysgenesis,Genetics,table
+transient neonatal diabetes mellitus,Types,table
+substance use disorder,--
+distal muscular dystrophy,Types,table
+hypertrophic cardiomyopathy,Genetics,table
+pharyngitis,--
+hypertensive emergency,--
+congenital dyserythropoietic anemia type iv,--
+renal tubular acidosis,Types,table
+arthritis,Comparison of types,table
+essential hypertension,Classification,table
+hemorrhoid,--
+hodgkin's lymphoma,Types,table
+osteoarthritis,--
+glycogen storage disease,Types,table
+paranoid personality disorder,Other,table
+ainhum,--
+amelogenesis imperfecta,Genetics,table
+hereditary motor and sensory neuropathy,Classification,table
+antisocial personality disorder,Other,table
+erythromelalgia,--
+atrial fibrillation,--
+otosclerosis,Causes,table
+tumors of the hematopoietic and lymphoid tissues,Classification,table
+cervical intraepithelial neoplasia,Classification,table
+epidermolysis bullosa simplex,Classification,table
+anterior cruciate ligament injury,--
+borderline personality disorder,Millon's subtypes,table
+hypopituitarism,Causes,table
+thyroid lymphoma,--
+plantar wart,--
+placenta accreta,Pathogenesis,table
+neuronal ceroid lipofuscinosis,Types,table
+burning mouth syndrome,--
+obstructive sleep apnea,--
+hyperphosphatemia,--
+cleft lip and cleft palate,Cause,table
+myasthenia gravis,Classification,table
+dystonia,Classification,table
+amyloidosis,Classification,table
+lung cancer,--
+adrenoleukodystrophy,--
+bulimia nervosa,--
+congenital disorder,United States,table
+crystal arthropathy,Crystal arthropathy,table
+delayed puberty,--
+diabetic nephropathy,--
+disease,Burdens of disease,table
+huntington's disease,--
+hypercholesterolemia,--
+hyperemesis gravidarum,--
+leukocyte adhesion deficiency,Cause,table
+malnutrition,--
+pontocerebellar hypoplasia,Classification,table
+primary ciliary dyskinesia,Genetics,table
+sideroblastic anemia,Classification,table
+streptococcal pharyngitis,--
+vitamin d deficiency,--

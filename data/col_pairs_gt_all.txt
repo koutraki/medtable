@@ -1,0 +1,350 @@
+512030;1059679;congenital adrenal hyperplasia;malaria;classification;classification;androgens;notes
+512030;121205;congenital adrenal hyperplasia;splenic marginal zone lymphoma;classification;synonyms;mineralocorticoids;classification system
+694519;512030;pseudohypoparathyroidism;congenital adrenal hyperplasia;types;classification;description;androgens
+2980653;512030;multiple endocrine neoplasia;congenital adrenal hyperplasia;comparison;classification;men 2;mineralocorticoids
+2001422;196763;hypopituitarism;subarachnoid hemorrhage;causes;classification;omim;grade
+196763;1907598;subarachnoid hemorrhage;ciliopathy;classification;ciliopathies;grade;omim
+512030;854978;congenital adrenal hyperplasia;typhus;classification;causes;androgens;condition
+196763;1214833;subarachnoid hemorrhage;paget&#39;s disease of bone;classification;genetic;grade;omim
+2496340;546042;personality disorder;noonan syndrome;comorbidity;causes;papd;year found
+3131063;546042;catecholaminergic polymorphic ventricular tachycardia;noonan syndrome;molecular genetics;causes;omim;year found
+2103859;512030;agnosia;congenital adrenal hyperplasia;types;classification;name;androgens
+196764;833499;subarachnoid hemorrhage;cleft lip and cleft palate;classification;specific genes;grade;omim
+512030;1243306;congenital adrenal hyperplasia;hypovolemia;classification;stages;mineralocorticoids;stage 2
+512030;2496334;congenital adrenal hyperplasia;personality disorder;classification;millon&#39;s description;mineralocorticoids;type of personality disorder
+2757042;512030;epidermolysis bullosa dystrophica;congenital adrenal hyperplasia;classification;classification;name;mineralocorticoids
+512030;1153444;congenital adrenal hyperplasia;croup;classification;diagnosis;mineralocorticoids;3
+2248528;546042;galactosemia;noonan syndrome;types;causes;omim;year found
+429193;512030;galactose epimerase deficiency;congenital adrenal hyperplasia;genetic basis;classification;biochemical effect;mineralocorticoids
+512030;1640437;congenital adrenal hyperplasia;narcissistic personality disorder;classification;subtypes;androgens;description
+512030;1459991;congenital adrenal hyperplasia;exanthem;classification;infectious exanthem;mineralocorticoids;number
+546042;2946061;noonan syndrome;hereditary spastic paraplegia;causes;genotypes;year found;omim
+196764;362249;subarachnoid hemorrhage;ocular albinism;classification;types;grade;omim
+1958567;512030;paramyotonia congenita;congenital adrenal hyperplasia;pathophysiology;classification;exercise/ activity;mineralocorticoids
+512030;2654977;congenital adrenal hyperplasia;channelopathy;classification;types;androgens;condition
+546042;1469108;noonan syndrome;viral hepatitis;causes;hepatitis viruses;year found;hev
+196762;2284740;subarachnoid hemorrhage;chronic mucocutaneous candidiasis;classification;types;grade;omimα
+2001422;196764;hypopituitarism;subarachnoid hemorrhage;causes;classification;omim;grade
+546042;3233245;noonan syndrome;transient neonatal diabetes mellitus;causes;types;year found;omim
+1153444;512030;croup;congenital adrenal hyperplasia;diagnosis;classification;number of points assigned for this feature;mineralocorticoids
+2175227;512030;hypothyroidism;congenital adrenal hyperplasia;causes;classification;group;androgens
+546042;2946061;noonan syndrome;hereditary spastic paraplegia;causes;genotypes;year found;genotype
+512030;995172;congenital adrenal hyperplasia;myasthenia gravis;classification;classification;mineralocorticoids;class
+941789;1196769;vasculitis;dental fluorosis;classification;dean&#39;s index;histopathology;code
+746653;512030;inguinal hernia;congenital adrenal hyperplasia;diagnosis;classification;relationship to inferior epigastric vessels;mineralocorticoids
+512030;1444055;congenital adrenal hyperplasia;tumors of the hematopoietic and lymphoid tissues;classification;classification;mineralocorticoids;type of hematological malignancy
+196763;1795580;subarachnoid hemorrhage;seckel syndrome;classification;genetics;grade;omim
+2372979;512030;xeroderma pigmentosum;congenital adrenal hyperplasia;types;classification;diseases database;mineralocorticoids
+757304;546042;amyloidosis;noonan syndrome;classification;causes;omim;year found
+546042;2273667;noonan syndrome;cornelia de lange syndrome;causes;causes;year found;omim
+1604866;512030;hyperlipidemia;congenital adrenal hyperplasia;familial (primary);classification;increased lipoprotein;mineralocorticoids
+2946061;512030;hereditary spastic paraplegia;congenital adrenal hyperplasia;genotypes;classification;other names and characteristics;mineralocorticoids
+512030;2666977;congenital adrenal hyperplasia;myelodysplastic syndrome;classification;french-american-british (fab) classification;androgens;description
+512030;3227966;congenital adrenal hyperplasia;hereditary hemorrhagic telangiectasia;classification;genetics;androgens;description
+512030;1153444;congenital adrenal hyperplasia;croup;classification;diagnosis;mineralocorticoids;2
+694519;196763;pseudohypoparathyroidism;subarachnoid hemorrhage;types;classification;omim;grade
+2074523;196764;centronuclear myopathy;subarachnoid hemorrhage;genetic causes;classification;omim;grade
+2715598;196764;familial hypocalciuric hypercalcemia;subarachnoid hemorrhage;causes;classification;omim;grade
+546042;1171866;noonan syndrome;hereditary motor and sensory neuropathy;causes;classification;year found;omim
+196763;1412061;subarachnoid hemorrhage;common variable immunodeficiency;classification;types;grade;omim
+994811;1444055;lipedema;tumors of the hematopoietic and lymphoid tissues;differential diagnosis;classification;lipo-lymphedema;14.0%
+189576;196763;respiratory failure;subarachnoid hemorrhage;type 1;classification;pao2;grade
+494769;546042;long qt syndrome;noonan syndrome;genetics;causes;mutation;year found
+512030;831902;congenital adrenal hyperplasia;cervical intraepithelial neoplasia;classification;classification;mineralocorticoids;corresponding cytology
+512030;278482;congenital adrenal hyperplasia;congenital disorder of glycosylation;classification;disorders of o-mannosylation;androgens;locus
+512030;2853424;congenital adrenal hyperplasia;renal cell carcinoma;classification;classification;androgens;clinical, pathological and genetic features of uncommon rcc subtypes included in the 2004 who classification of rcc pathology[28][29]
+2946061;512030;hereditary spastic paraplegia;congenital adrenal hyperplasia;genotypes;classification;inheritance;androgens
+994811;1196769;lipedema;dental fluorosis;differential diagnosis;dean&#39;s index;lipedema;code
+196763;994811;subarachnoid hemorrhage;lipedema;classification;differential diagnosis;grade;venous insufficiency/venous stasis
+3017839;546042;esophageal atresia;noonan syndrome;classification;causes;vogt[4];year found
+1469108;196763;viral hepatitis;subarachnoid hemorrhage;hepatitis viruses;classification;;grade
+196764;2143038;subarachnoid hemorrhage;bartonellosis;classification;microbiology;grade;bartonella species
+1171866;512030;hereditary motor and sensory neuropathy;congenital adrenal hyperplasia;classification;classification;omim;androgens
+546042;1221763;noonan syndrome;hodgkin&#39;s lymphoma;causes;types;year found;icd-o
+512030;624080;congenital adrenal hyperplasia;corneal dystrophy;classification;genetics;mineralocorticoids;inheritance
+2459218;1444055;porphyria;tumors of the hematopoietic and lymphoid tissues;genetics;classification;inheritance;14.0%
+1444055;2248528;tumors of the hematopoietic and lymphoid tissues;galactosemia;classification;types;14.0%;omim
+546042;512030;noonan syndrome;congenital adrenal hyperplasia;causes;classification;year found;locus
+512030;2666977;congenital adrenal hyperplasia;myelodysplastic syndrome;classification;french-american-british (fab) classification;androgens;name
+1196769;2112300;dental fluorosis;fg syndrome;dean&#39;s index;genetics;code;omim
+1824258;196763;childhood absence epilepsy;subarachnoid hemorrhage;pathophysiology;classification;inactivation;grade
+196764;1196769;subarachnoid hemorrhage;dental fluorosis;classification;dean&#39;s index;gcs;code
+1196769;1824258;dental fluorosis;childhood absence epilepsy;dean&#39;s index;pathophysiology;code;v50
+1459991;512030;exanthem;congenital adrenal hyperplasia;infectious exanthem;classification;virus;androgens
+1171866;512030;hereditary motor and sensory neuropathy;congenital adrenal hyperplasia;classification;classification;diseases database;androgens
+512030;1907598;congenital adrenal hyperplasia;ciliopathy;classification;ciliopathies;androgens;omim
+107148;546042;3-methylglutaconic aciduria;noonan syndrome;classification;causes;locus;year found
+196762;1756834;subarachnoid hemorrhage;histiocytosis;classification;classification;grade;mesh
+512030;2459218;congenital adrenal hyperplasia;porphyria;classification;genetics;mineralocorticoids;symptoms
+196764;2483222;subarachnoid hemorrhage;olivopontocerebellar atrophy;classification;cause;grade;omim
+546042;2248528;noonan syndrome;galactosemia;causes;types;year found;enzyme
+512030;2751485;congenital adrenal hyperplasia;transmissible spongiform encephalopathy;classification;classification;androgens;ictvdb code
+3028430;512030;type iv hypersensitivity;congenital adrenal hyperplasia;examples;classification;effects;mineralocorticoids
+196764;2496340;subarachnoid hemorrhage;personality disorder;classification;comorbidity;grade;aspd
+2045928;196764;joubert syndrome;subarachnoid hemorrhage;genetics;classification;omim;grade
+196762;1469108;subarachnoid hemorrhage;viral hepatitis;classification;hepatitis viruses;grade;hbv
+512030;2496340;congenital adrenal hyperplasia;personality disorder;classification;comorbidity;androgens;npd
+47375;512030;muscular dystrophy;congenital adrenal hyperplasia;classification;classification;gene;mineralocorticoids
+546042;494769;noonan syndrome;long qt syndrome;causes;genetics;year found;mutation
+512030;2405841;congenital adrenal hyperplasia;glycine encephalopathy;classification;genetics;mineralocorticoids;gene
+512030;3227966;congenital adrenal hyperplasia;hereditary hemorrhagic telangiectasia;classification;genetics;androgens;omim
+1444055;512030;tumors of the hematopoietic and lymphoid tissues;congenital adrenal hyperplasia;classification;classification;total;androgens
+1332838;546042;bipolar i disorder;noonan syndrome;dsm-iv-tr general diagnosis codes;causes;dx code #;year found
+196762;1756834;subarachnoid hemorrhage;histiocytosis;classification;classification;grade;icd10
+1469111;512030;viral hepatitis;congenital adrenal hyperplasia;hepatitis a;classification;marker;androgens
+196763;2439961;subarachnoid hemorrhage;hereditary sensory and autonomic neuropathy type i;classification;subtypes;grade;subtype
+512030;2973896;congenital adrenal hyperplasia;keratin disease;classification;pathology;androgens;name
+3131063;546042;catecholaminergic polymorphic ventricular tachycardia;noonan syndrome;molecular genetics;causes;inheritance;year found
+746653;512030;inguinal hernia;congenital adrenal hyperplasia;diagnosis;classification;usual onset;mineralocorticoids
+161392;512030;thyroid cancer;congenital adrenal hyperplasia;prognosis;classification;thyroid cancer type;mineralocorticoids
+512030;831902;congenital adrenal hyperplasia;cervical intraepithelial neoplasia;classification;classification;mineralocorticoids;image
+2302094;757304;cryoglobulinemia;amyloidosis;classification;classification;percent of cases;omim
+1444053;2335961;tumors of the hematopoietic and lymphoid tissues;brachydactyly;classification;types;total;omim
+546042;1890918;noonan syndrome;tetraplegia;causes;classification;year found;complete
+2000276;161392;spastic cerebral palsy;thyroid cancer;scientific classifications;prognosis;omim;stage i
+2218570;1756834;astrocytoma;histiocytosis;grading;classification;astrocytomas;name
+2744819;2235494;primary hyperparathyroidism;aphasia;causes;boston classification;omim;type of aphasia
+1196769;2284740;dental fluorosis;chronic mucocutaneous candidiasis;dean&#39;s index;types;criteria – description of enamel;omimα
+893677;546042;meckel syndrome;noonan syndrome;pathophysiology;causes;omim;% of cases
+1469111;1444055;viral hepatitis;tumors of the hematopoietic and lymphoid tissues;hepatitis a;classification;detection time;14.0%
+512030;278481;congenital adrenal hyperplasia;congenital disorder of glycosylation;classification;type ii;mineralocorticoids;omim
+512030;2723825;congenital adrenal hyperplasia;glycogen storage disease;classification;types;omim;development/ prognosis
+196763;2439961;subarachnoid hemorrhage;hereditary sensory and autonomic neuropathy type i;classification;subtypes;grade;gene or locus
+2235494;1447548;aphasia;pseudohypoaldosteronism;boston classification;types;type of aphasia;omim
+107148;161392;3-methylglutaconic aciduria;thyroid cancer;classification;prognosis;omim;5-year survival
+2946061;2853424;hereditary spastic paraplegia;renal cell carcinoma;genotypes;classification;omim;clinical, pathological and genetic features of uncommon rcc subtypes included in the 2004 who classification of rcc pathology[28][29]
+2751484;278482;transmissible spongiform encephalopathy;congenital disorder of glycosylation;classification;disorders of o-mannosylation;natural host;omim
+469158;1604866;hypokalemic periodic paralysis;hyperlipidemia;genetics;familial (primary);omim;main symptoms
+196763;170274;subarachnoid hemorrhage;congenital dyserythropoietic anemia;classification;genetics;grade;gene
+1680715;1833916;hirschsprung&#39;s disease;essential hypertension;genetics;classification;omim;systolic pressure
+546581;1890918;leprosy;tetraplegia;genetics;classification;omim;a
+1382226;1444055;self-defeating personality disorder;tumors of the hematopoietic and lymphoid tissues;millon&#39;s subtypes;classification;description;14.0%
+2459218;1680715;porphyria;hirschsprung&#39;s disease;genetics;genetics;type of porphyria;omim
+161392;1172517;thyroid cancer;griscelli syndrome;prognosis;types;stage i;omim
+757304;864843;amyloidosis;nerve compression syndrome;classification;syndromes;omim;usually referred to as
+512030;994811;congenital adrenal hyperplasia;lipedema;classification;differential diagnosis;androgens;venous insufficiency/venous stasis
+2483223;196762;olivopontocerebellar atrophy;subarachnoid hemorrhage;cause;classification;hereditary opca type;grade
+196764;1824258;subarachnoid hemorrhage;childhood absence epilepsy;classification;pathophysiology;grade;references
+48026;196762;dural arteriovenous fistula;subarachnoid hemorrhage;cognard et al. classification;classification;classification;grade
+2405841;950642;glycine encephalopathy;spondylocostal dysostosis;genetics;genetics;percent;omim
+831902;2514163;cervical intraepithelial neoplasia;nonsyndromic deafness;classification;genes related to nonsyndromic deafness;image;omim
+950642;2235494;spondylocostal dysostosis;aphasia;genetics;boston classification;omim;type of aphasia
+3178369;454336;hyperinsulinemic hypoglycemia;endometrial cancer;genetics;staging;omim;stage
+278480;196762;congenital disorder of glycosylation;subarachnoid hemorrhage;type i;classification;locus;grade
+1444055;941789;tumors of the hematopoietic and lymphoid tissues;vasculitis;classification;classification;myelomas;comparison of major types of vasculitis
+196764;2751485;subarachnoid hemorrhage;transmissible spongiform encephalopathy;classification;classification;grade;human diseases
+161392;2284740;thyroid cancer;chronic mucocutaneous candidiasis;prognosis;types;overall;omimα
+2483222;2405841;olivopontocerebellar atrophy;glycine encephalopathy;cause;genetics;omim;percent
+128039;2853424;amelogenesis imperfecta;renal cell carcinoma;genetics;classification;omim;clinical, pathological and genetic features of uncommon rcc subtypes included in the 2004 who classification of rcc pathology[28][29]
+2074523;1958567;centronuclear myopathy;paramyotonia congenita;genetic causes;pathophysiology;omim;exercise/ activity
+161392;2372979;thyroid cancer;xeroderma pigmentosum;prognosis;types;10-year survival;omim
+2946061;161392;hereditary spastic paraplegia;thyroid cancer;genotypes;prognosis;omim;5-year survival
+278481;1444055;congenital disorder of glycosylation;tumors of the hematopoietic and lymphoid tissues;type ii;classification;type;14.0%
+327006;1444055;congenital generalized lipodystrophy;tumors of the hematopoietic and lymphoid tissues;genetics;classification;type;14.0%
+512030;2508219;congenital adrenal hyperplasia;obesity;classification;classification;mineralocorticoids;bmi (kg/m2)
+1795580;2302094;seckel syndrome;cryoglobulinemia;genetics;classification;omim;association with other diseases
+512030;2106565;congenital adrenal hyperplasia;apert syndrome;classification;syndactyly;androgens
+161392;2413585;thyroid cancer;methylmalonic acidemia;prognosis;types;stage iv;omim
+161392;744531;thyroid cancer;retinitis pigmentosa;prognosis;genetics;overall;omim
+1444055;335173;tumors of the hematopoietic and lymphoid tissues;schizotypal personality disorder;classification;subtypes;14.0%;description
+546581;2218570;leprosy;astrocytoma;genetics;grading;omim;who grade
+449344;3131063;scapular fracture;catecholaminergic polymorphic ventricular tachycardia;coracoid process fractures;molecular genetics;type;omim
+128039;2372979;amelogenesis imperfecta;xeroderma pigmentosum;genetics;types;type;omim
+1447548;893677;pseudohypoaldosteronism;meckel syndrome;types;pathophysiology;omim;gene
+1469108;2074523;viral hepatitis;centronuclear myopathy;hepatitis viruses;genetic causes;hav;gene(s)
+342835;933469;epidermolysis bullosa;tracheoesophageal fistula;other genetic;classification;locus;tef?
+694519;189576;pseudohypoparathyroidism;respiratory failure;types;type 1;omim;decreased (&lt; 60 mmhg (8.0 kpa))
+2737826;196764;pituitary adenoma;subarachnoid hemorrhage;classification;classification;staining;gcs
+2802407;994811;motor neuron disease;lipedema;classification;differential diagnosis;type;lipo-lymphedema
+995172;2536886;myasthenia gravis;prostatitis;classification;classification;class;wbcs?
+1059679;1444055;malaria;tumors of the hematopoietic and lymphoid tissues;classification;classification;pathogen;myelomas
+1214833;3233245;paget&#39;s disease of bone;transient neonatal diabetes mellitus;genetic;types;omim;gene
+2633710;1445017;pneumothorax;epidermolysis bullosa simplex;secondary spontaneous;classification;causes;omim
+1698602;2001422;meningitis;hypopituitarism;diagnosis;causes;glucose;omim
+1706569;128039;proteopathy;amelogenesis imperfecta;list of proteopathies;genetics;proteopathy;type
+950642;2737826;spondylocostal dysostosis;pituitary adenoma;genetics;classification;omim;secretion
+2112300;189577;fg syndrome;respiratory failure;genetics;type 2;type;pao2
+2633710;744531;pneumothorax;retinitis pigmentosa;secondary spontaneous;genetics;type;omim
+1947287;449345;leukemia;scapular fracture;classification;acromion fractures;chronic;description
+831902;2121554;cervical intraepithelial neoplasia;ichthyosis;classification;genetic disease with ichthyosis;histology grade;omim
+1824258;2853424;childhood absence epilepsy;renal cell carcinoma;pathophysiology;classification;region;rcc subtype
+105671;2121553;lichen planus;ichthyosis;pattern;genetic simple ichthyoses;description[12];omim
+1469108;3119209;viral hepatitis;cancer;hepatitis viruses;genetic testing;hdv;gene
+854978;278480;typhus;congenital disorder of glycosylation;causes;type i;condition;locus
+1444053;1756834;tumors of the hematopoietic and lymphoid tissues;histiocytosis;classification;classification;—;name
+3068474;1757311;antisocial personality disorder;osteopetrosis;other;gene variation;features;omim
+3224756;2483222;cockayne syndrome;olivopontocerebellar atrophy;genetics;cause;gene;omim
+2751484;2329128;transmissible spongiform encephalopathy;schizoid personality disorder;classification;millon&#39;s subtypes;natural host;subtype
+1447548;1604866;pseudohypoaldosteronism;hyperlipidemia;types;familial (primary);omim;synonyms
+1604866;3048412;hyperlipidemia;myiasis;familial (primary);signs and symptoms;synonyms;syndrome
+278480;694519;congenital disorder of glycosylation;pseudohypoparathyroidism;type i;types;gene;omim
+2074523;1680715;centronuclear myopathy;hirschsprung&#39;s disease;genetic causes;genetics;omim;type
+2074523;161392;centronuclear myopathy;thyroid cancer;genetic causes;prognosis;inheritance;stage i
+2335961;1445017;brachydactyly;epidermolysis bullosa simplex;types;classification;type;omim
+1958567;161392;paramyotonia congenita;thyroid cancer;pathophysiology;prognosis;references;stage i
+1795580;2045928;seckel syndrome;joubert syndrome;genetics;genetics;omim;type
+1833916;2041764;essential hypertension;placenta praevia;classification;classification;diastolic pressure;description
+2584288;1833916;skin cancer;essential hypertension;classification;classification;description;systolic pressure
+3227966;1890918;hereditary hemorrhagic telangiectasia;tetraplegia;genetics;classification;omim;complete
+833499;189577;cleft lip and cleft palate;respiratory failure;specific genes;type 2;type;pao2
+994811;2751484;lipedema;transmissible spongiform encephalopathy;differential diagnosis;classification;venous insufficiency/venous stasis;non-human mammals
+994811;746653;lipedema;inguinal hernia;differential diagnosis;diagnosis;lipedema;type
+2496340;2413585;personality disorder;methylmalonic acidemia;comorbidity;types;szpd;name
+624080;1833916;corneal dystrophy;essential hypertension;genetics;classification;name;kpa (kn/m2)
+2980653;757304;multiple endocrine neoplasia;amyloidosis;comparison;classification;men 1;abbr.
+1820637;2496340;hypertrophic cardiomyopathy;personality disorder;genetics;comorbidity;type;papd
+2496340;1541768;personality disorder;herpes simplex;comorbidity;pathophysiology;npd;15–25% of days
+1293850;1824258;dystonia;childhood absence epilepsy;genetic/primary;pathophysiology;omim;tau
+3017839;1196769;esophageal atresia;dental fluorosis;classification;dean&#39;s index;ladd[5];classification
+1444053;2751485;tumors of the hematopoietic and lymphoid tissues;transmissible spongiform encephalopathy;classification;classification;—;prp isoform
+1756834;3227966;histiocytosis;hereditary hemorrhagic telangiectasia;classification;genetics;mesh;omim
+2014805;278480;femoral hernia;congenital disorder of glycosylation;classification;type i;the hernial sac emerges from the abdomen within the femoral sheath but lies posteriorly to the femoral vein and artery, visible only if the hip is congenitally dislocated.;gene
+2014805;322026;femoral hernia;brugada syndrome;classification;genetics;the hernial sac emerges from the abdomen within the femoral sheath but lies posteriorly to the femoral vein and artery, visible only if the hip is congenitally dislocated.;notes
+1640436;831902;narcissistic personality disorder;cervical intraepithelial neoplasia;subtypes;classification;personality traits;histology grade
+1824258;170274;childhood absence epilepsy;congenital dyserythropoietic anemia;pathophysiology;genetics;excitability prediction;type
+2132906;449345;specific developmental disorder;scapular fracture;comparison and conditions;acromion fractures;icd-11[10];type
+2900505;128039;craniosynostosis;amelogenesis imperfecta;classification;genetics;omim reference;omim
+2385861;1059679;polydactyly;malaria;causes;classification;locus;name
+1027563;2751485;premature ovarian failure;transmissible spongiform encephalopathy;causes;classification;locus;disease name
+3178369;1604866;hyperinsulinemic hypoglycemia;hyperlipidemia;genetics;familial (primary);gene;hyperlipo- proteinemia
+2815856;2900505;ovarian cancer;craniosynostosis;pathophysiology;classification;mutation type;omim reference
+2372979;374451;xeroderma pigmentosum;renal tubular acidosis;types;types;diseases database;type
+1444055;546042;tumors of the hematopoietic and lymphoid tissues;noonan syndrome;classification;causes;percentage;% of cases
+994811;893677;lipedema;meckel syndrome;differential diagnosis;pathophysiology;lipo-lymphedema;gene
+170274;1059679;congenital dyserythropoietic anemia;malaria;genetics;classification;gene;pathogen
+469158;3178369;hypokalemic periodic paralysis;hyperinsulinemic hypoglycemia;genetics;genetics;gene;locus
+2900505;1719498;craniosynostosis;diabetes mellitus;classification;causes;gene;feature
+2853423;288478;renal cell carcinoma;osteochondritis dissecans;classification;classification;characteristics;grade
+1308258;2468519;nephrogenic diabetes insipidus;fistula;hereditary;types;locus;definition
+2853424;1308258;renal cell carcinoma;nephrogenic diabetes insipidus;classification;hereditary;clinical, pathological and genetic features of uncommon rcc subtypes included in the 2004 who classification of rcc pathology[28][29];gene
+1469108;362249;viral hepatitis;ocular albinism;hepatitis viruses;types;hdv;omim
+2074523;374451;centronuclear myopathy;renal tubular acidosis;genetic causes;types;description;type 4
+362249;2853424;ocular albinism;renal cell carcinoma;types;classification;name;genetics
+2439961;1445017;hereditary sensory and autonomic neuropathy type i;epidermolysis bullosa simplex;subtypes;classification;subtype;type
+1698602;1196769;meningitis;dental fluorosis;diagnosis;dean&#39;s index;type of meningitis;classification
+2802407;2477825;motor neuron disease;multiple epiphyseal dysplasia;classification;inheritance;umn degeneration;omim
+1680715;3048412;hirschsprung&#39;s disease;myiasis;genetics;signs and symptoms;type;syndrome
+624080;1589194;corneal dystrophy;congenital adrenal hyperplasia due to 21-hydroxylase deficiency;genetics;classification;name;sex steroid effects
+1604866;1958567;hyperlipidemia;paramyotonia congenita;familial (primary);pathophysiology;serum appearance;exercise/ activity
+1604866;2284740;hyperlipidemia;chronic mucocutaneous candidiasis;familial (primary);types;estimated prevalence;gene
+1214833;994811;paget&#39;s disease of bone;lipedema;genetic;differential diagnosis;omim
+107148;3119209;3-methylglutaconic aciduria;cancer;classification;genetic testing;locus;gene
+3028430;2235494;type iv hypersensitivity;aphasia;examples;boston classification;disease;speech repetition
+2496340;2248528;personality disorder;galactosemia;comorbidity;types;hpd;omim
+2496340;941789;personality disorder;vasculitis;comorbidity;classification;dpd;histopathology
+3048412;161392;myiasis;thyroid cancer;signs and symptoms;prognosis;symptoms;stage ii
+3017839;2737826;esophageal atresia;pituitary adenoma;classification;classification;ladd[5];secretion
+429193;47375;galactose epimerase deficiency;muscular dystrophy;genetic basis;classification;clinical manifestation;description
+1958567;1243306;paramyotonia congenita;hypovolemia;pathophysiology;stages;mutation;stage 4
+3227966;2045928;hereditary hemorrhagic telangiectasia;joubert syndrome;genetics;genetics;description;remarks
+1680715;1795580;hirschsprung&#39;s disease;seckel syndrome;genetics;genetics;locus;type
+1444055;2679989;tumors of the hematopoietic and lymphoid tissues;dependent personality disorder;classification;millon&#39;s subtypes;type of hematological malignancy;subtype
+2459218;2584288;porphyria;skin cancer;genetics;classification;porphyria type;illustration
+3131063;322026;catecholaminergic polymorphic ventricular tachycardia;brugada syndrome;molecular genetics;genetics;inheritance;notes
+1824258;2986307;childhood absence epilepsy;asphyxiating thoracic dysplasia;pathophysiology;types;excitability prediction;locus
+3233245;2496340;transient neonatal diabetes mellitus;personality disorder;types;comorbidity;locus;papd
+2986307;278480;asphyxiating thoracic dysplasia;congenital disorder of glycosylation;types;type i;gene;locus
+2329128;854978;schizoid personality disorder;typhus;millon&#39;s subtypes;causes;features;notes
+512030;1243306;congenital adrenal hyperplasia;hypovolemia;classification;stages;omim
+1640437;2235494;narcissistic personality disorder;aphasia;subtypes;boston classification;personality traits;speech repetition
+2041764;2106565;placenta praevia;apert syndrome;classification;syndactyly;description;type iii (" rosebud")"="
+1214833;454336;paget&#39;s disease of bone;endometrial cancer;genetic;staging;name;description
+2986307;2853423;asphyxiating thoracic dysplasia;renal cell carcinoma;types;classification;type;classification of the common histological subtypes of renal cell carcinoma[23]
+342835;1640437;epidermolysis bullosa;narcissistic personality disorder;other genetic;subtypes;name;description
+546042;624080;noonan syndrome;corneal dystrophy;causes;genetics;description;name
+3233245;624080;transient neonatal diabetes mellitus;corneal dystrophy;types;genetics;type;gene
+1757311;2248528;osteopetrosis;galactosemia;gene variation;types;name;type
+107148;2121553;3-methylglutaconic aciduria;ichthyosis;classification;genetic simple ichthyoses;type;protein
+2106565;374451;apert syndrome;renal tubular acidosis;syndactyly;types;type i (" spade");type"="
+864843;2679989;nerve compression syndrome;dependent personality disorder;syndromes;millon&#39;s subtypes;location;description
+2121554;1604866;ichthyosis;hyperlipidemia;genetic disease with ichthyosis;familial (primary);omim;omim
+2468519;2900506;fistula;craniosynostosis;types;classification;definition;other signs and symptoms (along with craniosynostosis; may not all be present)
+2751484;2045928;transmissible spongiform encephalopathy;joubert syndrome;classification;genetics;prion name;type
+2496339;2616353;personality disorder;borderline personality disorder;epidemiology;millon&#39;s subtypes;type of personality disorder;features
+2143038;1459991;bartonellosis;exanthem;microbiology;infectious exanthem;disease;virus
+2439961;1382226;hereditary sensory and autonomic neuropathy type i;self-defeating personality disorder;subtypes;millon&#39;s subtypes;clinical features;description
+1171866;2751484;hereditary motor and sensory neuropathy;transmissible spongiform encephalopathy;classification;classification;diseases database;non-human mammals
+1907598;2744819;ciliopathy;primary hyperparathyroidism;ciliopathies;causes;gene(s);gene
+2853424;2413585;renal cell carcinoma;methylmalonic acidemia;classification;types;clinical, pathological and genetic features of uncommon rcc subtypes included in the 2004 who classification of rcc pathology[28][29];name
+950642;1221763;spondylocostal dysostosis;hodgkin&#39;s lymphoma;genetics;types;type;name
+1293849;2001422;dystonia;hypopituitarism;focal dystonias;causes;location;type
+342835;694519;epidermolysis bullosa;pseudohypoparathyroidism;other genetic;types;name;type
+2112300;2074523;fg syndrome;centronuclear myopathy;genetics;genetic causes;type;description
+48026;1640437;dural arteriovenous fistula;narcissistic personality disorder;cognard et al. classification;subtypes;classification;description
+1756834;933469;histiocytosis;tracheoesophageal fistula;classification;classification;name;description
+2751484;107148;transmissible spongiform encephalopathy;3-methylglutaconic aciduria;classification;classification;disease name;also known as/description
+1469111;107148;viral hepatitis;3-methylglutaconic aciduria;hepatitis a;classification;description;type
+2335961;512030;brachydactyly;congenital adrenal hyperplasia;types;classification;type;enzyme(s)
+2483223;864844;olivopontocerebellar atrophy;nerve compression syndrome;cause;syndromes;opca name;location
+2744819;1153444;primary hyperparathyroidism;croup;causes;diagnosis;name;feature
+2853423;2459218;renal cell carcinoma;porphyria;classification;genetics;renal cell carcinoma subtype;porphyria type
+1907598;833499;ciliopathy;cleft lip and cleft palate;ciliopathies;specific genes;omim;omim
+2338582;2770650;lissencephaly;chancroid;classification;variants;types;characteristics
+2853424;2338582;renal cell carcinoma;lissencephaly;classification;classification;clinical, pathological and genetic features of uncommon rcc subtypes included in the 2004 who classification of rcc pathology[28][29];types
+512030;607593;congenital adrenal hyperplasia;hereditary elliptocytosis;classification;common hereditary elliptocytosis;common medical term;type
+1719498;2372979;diabetes mellitus;xeroderma pigmentosum;causes;types;type 1 diabetes;diseases database
+2853424;1698631;renal cell carcinoma;multiple system atrophy;classification;classification;clinical features;modern name and abbreviation
+3178369;1445017;hyperinsulinemic hypoglycemia;epidermolysis bullosa simplex;genetics;classification;omim;omim
+189576;1153444;respiratory failure;croup;type 1;diagnosis;decreased (&lt; 60 mmhg (8.0 kpa));4
+2074523;2121554;centronuclear myopathy;ichthyosis;genetic causes;genetic disease with ichthyosis;description;name
+2439961;1795580;hereditary sensory and autonomic neuropathy type i;seckel syndrome;subtypes;genetics;omim*;omim
+2654977;3233245;channelopathy;transient neonatal diabetes mellitus;types;types;condition;type
+933469;165038;tracheoesophageal fistula;tetralogy of fallot;classification;four malformations;description;condition
+2616353;2679989;borderline personality disorder;dependent personality disorder;millon&#39;s subtypes;millon&#39;s subtypes;features;description
+1756834;2483223;histiocytosis;olivopontocerebellar atrophy;classification;cause;name;opca name
+2459218;2143038;porphyria;bartonellosis;genetics;microbiology;symptoms;disease
+47375;1719498;muscular dystrophy;diabetes mellitus;classification;causes;disorder name;type 1 diabetes
+486242;1640436;iron overload;narcissistic personality disorder;primary haemochromatosis;subtypes;description;personality traits
+1719498;2248528;diabetes mellitus;galactosemia;causes;types;feature;type
+1890918;3233245;tetraplegia;transient neonatal diabetes mellitus;classification;types;a;type
+2335961;121205;brachydactyly;splenic marginal zone lymphoma;types;synonyms;type;classification system
+2019345;1382226;neuronal ceroid lipofuscinosis;self-defeating personality disorder;types;millon&#39;s subtypes;description;description
+1293850;2112300;dystonia;fg syndrome;genetic/primary;genetics;gene;gene
+2900505;2121554;craniosynostosis;ichthyosis;classification;genetic disease with ichthyosis;gene;gene
+1027563;1171866;premature ovarian failure;hereditary motor and sensory neuropathy;causes;classification;type;type
+2496340;512030;personality disorder;congenital adrenal hyperplasia;comorbidity;classification;avpd;%
+1680715;893677;hirschsprung&#39;s disease;meckel syndrome;genetics;pathophysiology;gene;gene
+824687;1469111;histrionic personality disorder;viral hepatitis;millon&#39;s subtypes;hepatitis a;description;description
+449344;2918602;scapular fracture;primary hyperoxaluria;coracoid process fractures;classification;type;type
+1820637;170274;hypertrophic cardiomyopathy;congenital dyserythropoietic anemia;genetics;genetics;gene;gene
+757304;1640438;amyloidosis;narcissistic personality disorder;classification;subtypes;description;description
+3233245;1820637;transient neonatal diabetes mellitus;hypertrophic cardiomyopathy;types;genetics;locus;locus
+2121554;2666977;ichthyosis;myelodysplastic syndrome;genetic disease with ichthyosis;french-american-british (fab) classification;name;name
+546581;2715598;leprosy;familial hypocalciuric hypercalcemia;genetics;causes;omim;omim
+1308258;3178369;nephrogenic diabetes insipidus;hyperinsulinemic hypoglycemia;hereditary;genetics;gene;gene
+2218570;1469111;astrocytoma;viral hepatitis;grading;hepatitis a;description;description
+1027563;107148;premature ovarian failure;3-methylglutaconic aciduria;causes;classification;locus;locus
+278482;2000276;congenital disorder of glycosylation;spastic cerebral palsy;disorders of o-mannosylation;scientific classifications;locus;locus
+694519;2514163;pseudohypoparathyroidism;nonsyndromic deafness;types;genes related to nonsyndromic deafness;type;type
+2723825;2496340;glycogen storage disease;personality disorder;types;comorbidity;hyperlip- idemia?;avpd
+2900506;342835;craniosynostosis;epidermolysis bullosa;classification;other genetic;gene;gene
+1027563;1589194;premature ovarian failure;congenital adrenal hyperplasia due to 21-hydroxylase deficiency;causes;classification;type;type
+1640438;746653;narcissistic personality disorder;inguinal hernia;subtypes;diagnosis;description;description
+588500;2121554;otosclerosis;ichthyosis;genetics;genetic disease with ichthyosis;name;name
+1027563;2284740;premature ovarian failure;chronic mucocutaneous candidiasis;causes;types;gene;gene
+624080;1293849;corneal dystrophy;dystonia;genetics;focal dystonias;name;name
+2536886;2103859;prostatitis;agnosia;classification;types;description;description
+1412061;2302094;common variable immunodeficiency;cryoglobulinemia;types;classification;type;type
+546581;1459991;leprosy;exanthem;genetics;infectious exanthem;name;name
+1357192;1640438;paranoid personality disorder;narcissistic personality disorder;other;subtypes;subtype;subtype
+694519;2946061;pseudohypoparathyroidism;hereditary spastic paraplegia;types;genotypes;gene;gene locus
+2045928;1214833;joubert syndrome;paget&#39;s disease of bone;genetics;genetic;locus;locus
+1172517;1412061;griscelli syndrome;common variable immunodeficiency;types;types;gene;gene
+2491679;278482;oculocutaneous albinism;congenital disorder of glycosylation;types;disorders of o-mannosylation;name;name
+449344;2001422;scapular fracture;hypopituitarism;coracoid process fractures;causes;type;type
+2019345;2815856;neuronal ceroid lipofuscinosis;ovarian cancer;types;pathophysiology;type;mutation type
+1680715;342835;hirschsprung&#39;s disease;epidermolysis bullosa;genetics;other genetic;gene;gene
+2477825;2112300;multiple epiphyseal dysplasia;fg syndrome;inheritance;genetics;type;type
+1757311;322026;osteopetrosis;brugada syndrome;gene variation;genetics;gene;gene
+2074523;1447548;centronuclear myopathy;pseudohypoaldosteronism;genetic causes;types;description;description
+165038;2584288;tetralogy of fallot;skin cancer;four malformations;classification;description;description
+1293850;170274;dystonia;congenital dyserythropoietic anemia;genetic/primary;genetics;locus;locus
+2744819;3131063;primary hyperparathyroidism;catecholaminergic polymorphic ventricular tachycardia;causes;molecular genetics;gene;gene
+2715598;278480;familial hypocalciuric hypercalcemia;congenital disorder of glycosylation;causes;type i;locus;locus
+1221763;486242;hodgkin&#39;s lymphoma;iron overload;types;primary haemochromatosis;description;description
+624080;2715598;corneal dystrophy;familial hypocalciuric hypercalcemia;genetics;causes;name;name
+1115442;3119209;congenital hypothyroidism;cancer;genetic;genetic testing;gene;gene
+1027563;2045928;premature ovarian failure;joubert syndrome;causes;genetics;gene;gene
+2477825;1412061;multiple epiphyseal dysplasia;common variable immunodeficiency;inheritance;types;gene;gene
+2045928;3178369;joubert syndrome;hyperinsulinemic hypoglycemia;genetics;genetics;type;type
+2041764;235182;placenta praevia;severe combined immunodeficiency;classification;classification;description;description

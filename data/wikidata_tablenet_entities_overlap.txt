@@ -1,0 +1,327 @@
+erythropoietic porphyria
+influenza
+cryptosporidiosis
+congenital adrenal hyperplasia
+porphyria cutanea tarda
+centronuclear myopathy
+typhus
+renal cell carcinoma
+aphthous stomatitis
+trachoma
+congenital hypothyroidism
+primary hyperparathyroidism
+lissencephaly
+hypothermia
+tracheoesophageal fistula
+pseudohypoaldosteronism
+diabetes mellitus
+trichinosis
+histiocytosis
+viral hepatitis
+muscular dystrophy
+methylmalonic acidemia
+congenital disorder of glycosylation
+portal hypertension
+tempi syndrome
+noonan syndrome
+fructose malabsorption
+fg syndrome
+african iron overload
+childhood obesity
+soft-tissue sarcoma
+post-concussion syndrome
+lateral medullary syndrome
+landau–kleffner syndrome
+congenital adrenal hyperplasia due to 21-hydroxylase deficiency
+appendicitis
+ocular albinism
+rhabdomyosarcoma
+narcissistic personality disorder
+iron overload
+myiasis
+polydactyly
+marburg virus disease
+lipedema
+eating disorder
+adult-onset still's disease
+retinitis pigmentosa
+hypotrichosis
+respiratory failure
+autotopagnosia
+hereditary spastic paraplegia
+hypertensive heart disease
+aphasia
+familial partial lipodystrophy
+specific developmental disorder
+epidermolysis bullosa dystrophica
+long qt syndrome
+anemia
+cerebral arteriovenous malformation
+peripartum cardiomyopathy
+22q13 deletion syndrome
+hospital-acquired infection
+mitral valve stenosis
+down syndrome
+aberrations of the eye
+chronic obstructive pulmonary disease
+familial hemiplegic migraine
+echinococcosis
+pituitary adenoma
+genital herpes
+cornelia de lange syndrome
+cystic fibrosis
+tetraplegia
+hepatic encephalopathy
+hypothyroidism
+obesity
+pericoronitis
+thrombosis
+hypovolemia
+meckel's diverticulum
+bacterial vaginosis
+juvenile myelomonocytic leukemia
+robinow syndrome
+craniosynostosis
+brachydactyly
+proteopathy
+ovarian cancer
+fistula
+amyotrophic lateral sclerosis
+glycine encephalopathy
+severe combined immunodeficiency
+childhood absence epilepsy
+paramyotonia congenita
+kallmann syndrome
+gestational diabetes
+synpolydactyly
+joubert syndrome
+gulf war syndrome
+poliomyelitis
+prostatitis
+heparin-induced thrombocytopenia
+vascular myelopathy
+lichen planus
+malaria
+primary polydipsia
+reticular dysgenesis
+hip dysplasia
+irritable bowel syndrome
+generalized epilepsy with febrile seizures plus
+hepatitis
+asthma
+babesiosis
+keratin disease
+invasive lobular carcinoma
+oculocutaneous albinism
+placenta praevia
+primary hyperoxaluria
+motor neuron disease
+esthesioneuroblastoma
+tetralogy of fallot
+scapular fracture
+bruxism
+vaginitis
+corneal dystrophy
+multiple system atrophy
+pneumothorax
+multiple epiphyseal dysplasia
+pulpitis
+channelopathy
+ichthyosis
+hereditary hemorrhagic telangiectasia
+bing–neel syndrome
+abdominal aortic aneurysm
+leukemia
+non-small-cell lung carcinoma
+exanthem
+oral candidiasis
+schizotypal personality disorder
+progeria
+osteochondritis dissecans
+endometrial cancer
+type iii hypersensitivity
+fecal incontinence
+familial atrial fibrillation
+hereditary elliptocytosis
+type iv hypersensitivity
+spastic quadriplegia
+acute kidney injury
+papillary thyroid cancer
+osteogenesis imperfecta
+seckel syndrome
+atopic dermatitis
+inguinal hernia
+glaucoma
+epidermolysis bullosa
+brugada syndrome
+schizoid personality disorder
+3-methylglutaconic aciduria
+dural arteriovenous fistula
+generalized pustular psoriasis
+osteomyelitis
+cryoglobulinemia
+microphthalmia
+traveler's diarrhea
+hypervitaminosis a
+hereditary sensory and autonomic neuropathy type i
+common variable immunodeficiency
+optic neuritis
+transmissible spongiform encephalopathy
+tetanus
+cancer
+ciliopathy
+lactose intolerance
+familial hypercholesterolemia
+cannabinoid hyperemesis syndrome
+femoral hernia
+pericarditis
+lateral pontine syndrome
+mercury poisoning
+cockayne syndrome
+croup
+keratoconus
+substance dependence
+dental fluorosis
+hirschsprung's disease
+relapsing polychondritis
+chronic kidney disease
+olivopontocerebellar atrophy
+kniest dysplasia
+osteoporosis
+galactosemia
+splenic marginal zone lymphoma
+heart failure
+leukoplakia
+placental insufficiency
+esophageal atresia
+familial hypocalciuric hypercalcemia
+ovarian cyst
+dilated cardiomyopathy
+avian influenza
+chancroid
+dependent personality disorder
+alzheimer's disease
+uremia
+nonsyndromic deafness
+igg4-related disease
+severe acute respiratory syndrome
+meningitis
+ocular albinism type 1
+vasculitis
+asphyxiating thoracic dysplasia
+pseudohypoparathyroidism
+histrionic personality disorder
+hyperparathyroidism
+tubo-ovarian abscess
+radiation burn
+polycythemia vera
+porphyria
+galactose epimerase deficiency
+agnosia
+kawasaki disease
+monomac
+congenital generalized lipodystrophy
+apert syndrome
+hereditary diffuse leukoencephalopathy with spheroids
+type i hypersensitivity
+focal segmental glomerulosclerosis
+catecholaminergic polymorphic ventricular tachycardia
+reactive arthritis
+phenylketonuria
+hyperinsulinemic hypoglycemia
+thyroid cancer
+personality disorder
+blastocystosis
+measles
+genitopatellar syndrome
+xeroderma pigmentosum
+color blindness
+hyperlipidemia
+osteopetrosis
+splenomegaly
+congenital dyserythropoietic anemia type i
+leprosy
+nerve compression syndrome
+herpes simplex
+mandibuloacral dysplasia
+bartonellosis
+skin cancer
+griscelli syndrome
+congenital dyserythropoietic anemia
+hepatitis a
+chronic mucocutaneous candidiasis
+inferiority complex
+bipolar i disorder
+ectrodactyly
+astrocytoma
+self-defeating personality disorder
+retroverted uterus
+paget's disease of bone
+cluster headache
+sanfilippo syndrome
+hypertension
+spondylocostal dysostosis
+ectopic pregnancy
+spastic cerebral palsy
+premature ovarian failure
+dracunculiasis
+nephrogenic diabetes insipidus
+toothache
+hidradenitis suppurativa
+hypokalemic periodic paralysis
+myxoma
+multiple endocrine neoplasia
+migraine
+acute pancreatitis
+acute myeloid leukemia
+meckel syndrome
+central sleep apnea
+substance abuse
+sinusitis
+idiopathic interstitial pneumonia
+beta thalassemia
+myelodysplastic syndrome
+pulmonary fibrosis
+subarachnoid hemorrhage
+opportunistic infection
+xy gonadal dysgenesis
+transient neonatal diabetes mellitus
+substance use disorder
+distal muscular dystrophy
+hypertrophic cardiomyopathy
+pharyngitis
+hypertensive emergency
+congenital dyserythropoietic anemia type iv
+renal tubular acidosis
+arthritis
+essential hypertension
+hemorrhoid
+hodgkin's lymphoma
+osteoarthritis
+glycogen storage disease
+paranoid personality disorder
+ainhum
+amelogenesis imperfecta
+hereditary motor and sensory neuropathy
+antisocial personality disorder
+erythromelalgia
+atrial fibrillation
+otosclerosis
+tumors of the hematopoietic and lymphoid tissues
+cervical intraepithelial neoplasia
+epidermolysis bullosa simplex
+anterior cruciate ligament injury
+borderline personality disorder
+hypopituitarism
+thyroid lymphoma
+plantar wart
+placenta accreta
+neuronal ceroid lipofuscinosis
+burning mouth syndrome
+obstructive sleep apnea
+hyperphosphatemia
+cleft lip and cleft palate
+myasthenia gravis
+dystonia
+amyloidosis
+lung cancer

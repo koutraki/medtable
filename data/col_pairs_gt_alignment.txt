@@ -1,0 +1,66 @@
+2014805;322026;femoral hernia;brugada syndrome;classification;genetics;the hernial sac emerges from the abdomen within the femoral sheath but lies posteriorly to the femoral vein and artery, visible only if the hip is congenitally dislocated.;notes
+2132906;449345;specific developmental disorder;scapular fracture;comparison and conditions;acromion fractures;icd-11[10];type
+2900505;128039;craniosynostosis;amelogenesis imperfecta;classification;genetics;omim reference;omim
+1444055;546042;tumors of the hematopoietic and lymphoid tissues;noonan syndrome;classification;causes;percentage;% of cases
+2439961;1445017;hereditary sensory and autonomic neuropathy type i;epidermolysis bullosa simplex;subtypes;classification;subtype;type
+3227966;2045928;hereditary hemorrhagic telangiectasia;joubert syndrome;genetics;genetics;description;remarks
+1444055;2679989;tumors of the hematopoietic and lymphoid tissues;dependent personality disorder;classification;millon's subtypes;type of hematological malignancy;subtype
+2329128;854978;schizoid personality disorder;typhus;millon's subtypes;causes;features;notes
+2121554;1604866;ichthyosis;hyperlipidemia;genetic disease with ichthyosis;familial (primary);omim;omim
+1907598;2744819;ciliopathy;primary hyperparathyroidism;ciliopathies;causes;gene(s);gene
+950642;1221763;spondylocostal dysostosis;hodgkin's lymphoma;genetics;types;type;name
+342835;694519;epidermolysis bullosa;pseudohypoparathyroidism;other genetic;types;name;type
+1907598;833499;ciliopathy;cleft lip and cleft palate;ciliopathies;specific genes;omim;omim
+512030;607593;congenital adrenal hyperplasia;hereditary elliptocytosis;classification;common hereditary elliptocytosis;common medical term;type
+3178369;1445017;hyperinsulinemic hypoglycemia;epidermolysis bullosa simplex;genetics;classification;omim;omim
+2439961;1795580;hereditary sensory and autonomic neuropathy type i;seckel syndrome;subtypes;genetics;omim*;omim
+2654977;3233245;channelopathy;transient neonatal diabetes mellitus;types;types;condition;type
+2616353;2679989;borderline personality disorder;dependent personality disorder;millon's subtypes;millon's subtypes;features;description
+1756834;2483223;histiocytosis;olivopontocerebellar atrophy;classification;cause;name;opca name
+2019345;1382226;neuronal ceroid lipofuscinosis;self-defeating personality disorder;types;millon's subtypes;description;description
+1293850;2112300;dystonia;fg syndrome;genetic/primary;genetics;gene;gene
+2900505;2121554;craniosynostosis;ichthyosis;classification;genetic disease with ichthyosis;gene;gene
+1027563;1171866;premature ovarian failure;hereditary motor and sensory neuropathy;causes;classification;type;type
+1680715;893677;hirschsprung's disease;meckel syndrome;genetics;pathophysiology;gene;gene
+824687;1469111;histrionic personality disorder;viral hepatitis;millon's subtypes;hepatitis a;description;description
+449344;2918602;scapular fracture;primary hyperoxaluria;coracoid process fractures;classification;type;type
+1820637;170274;hypertrophic cardiomyopathy;congenital dyserythropoietic anemia;genetics;genetics;gene;gene
+757304;1640438;amyloidosis;narcissistic personality disorder;classification;subtypes;description;description
+3233245;1820637;transient neonatal diabetes mellitus;hypertrophic cardiomyopathy;types;genetics;locus;locus
+2121554;2666977;ichthyosis;myelodysplastic syndrome;genetic disease with ichthyosis;french-american-british (fab) classification;name;name
+546581;2715598;leprosy;familial hypocalciuric hypercalcemia;genetics;causes;omim;omim
+1308258;3178369;nephrogenic diabetes insipidus;hyperinsulinemic hypoglycemia;hereditary;genetics;gene;gene
+2218570;1469111;astrocytoma;viral hepatitis;grading;hepatitis a;description;description
+1027563;107148;premature ovarian failure;3-methylglutaconic aciduria;causes;classification;locus;locus
+278482;2000276;congenital disorder of glycosylation;spastic cerebral palsy;disorders of o-mannosylation;scientific classifications;locus;locus
+694519;2514163;pseudohypoparathyroidism;nonsyndromic deafness;types;genes related to nonsyndromic deafness;type;type
+2900506;342835;craniosynostosis;epidermolysis bullosa;classification;other genetic;gene;gene
+1027563;1589194;premature ovarian failure;congenital adrenal hyperplasia due to 21-hydroxylase deficiency;causes;classification;type;type
+1640438;746653;narcissistic personality disorder;inguinal hernia;subtypes;diagnosis;description;description
+588500;2121554;otosclerosis;ichthyosis;genetics;genetic disease with ichthyosis;name;name
+1027563;2284740;premature ovarian failure;chronic mucocutaneous candidiasis;causes;types;gene;gene
+624080;1293849;corneal dystrophy;dystonia;genetics;focal dystonias;name;name
+2536886;2103859;prostatitis;agnosia;classification;types;description;description
+1412061;2302094;common variable immunodeficiency;cryoglobulinemia;types;classification;type;type
+546581;1459991;leprosy;exanthem;genetics;infectious exanthem;name;name
+1357192;1640438;paranoid personality disorder;narcissistic personality disorder;other;subtypes;subtype;subtype
+2045928;1214833;joubert syndrome;paget's disease of bone;genetics;genetic;locus;locus
+1172517;1412061;griscelli syndrome;common variable immunodeficiency;types;types;gene;gene
+2491679;278482;oculocutaneous albinism;congenital disorder of glycosylation;types;disorders of o-mannosylation;name;name
+449344;2001422;scapular fracture;hypopituitarism;coracoid process fractures;causes;type;type
+2019345;2815856;neuronal ceroid lipofuscinosis;ovarian cancer;types;pathophysiology;type;mutation type
+1680715;342835;hirschsprung's disease;epidermolysis bullosa;genetics;other genetic;gene;gene
+2477825;2112300;multiple epiphyseal dysplasia;fg syndrome;inheritance;genetics;type;type
+1757311;322026;osteopetrosis;brugada syndrome;gene variation;genetics;gene;gene
+2074523;1447548;centronuclear myopathy;pseudohypoaldosteronism;genetic causes;types;description;description
+165038;2584288;tetralogy of fallot;skin cancer;four malformations;classification;description;description
+1293850;170274;dystonia;congenital dyserythropoietic anemia;genetic/primary;genetics;locus;locus
+2744819;3131063;primary hyperparathyroidism;catecholaminergic polymorphic ventricular tachycardia;causes;molecular genetics;gene;gene
+2715598;278480;familial hypocalciuric hypercalcemia;congenital disorder of glycosylation;causes;type i;locus;locus
+1221763;486242;hodgkin's lymphoma;iron overload;types;primary haemochromatosis;description;description
+624080;2715598;corneal dystrophy;familial hypocalciuric hypercalcemia;genetics;causes;name;name
+1115442;3119209;congenital hypothyroidism;cancer;genetic;genetic testing;gene;gene
+1027563;2045928;premature ovarian failure;joubert syndrome;causes;genetics;gene;gene
+2477825;1412061;multiple epiphyseal dysplasia;common variable immunodeficiency;inheritance;types;gene;gene
+2045928;3178369;joubert syndrome;hyperinsulinemic hypoglycemia;genetics;genetics;type;type
+2041764;235182;placenta praevia;severe combined immunodeficiency;classification;classification;description;description
